@@ -1,5 +1,8 @@
 {
   "name": "rend2",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }

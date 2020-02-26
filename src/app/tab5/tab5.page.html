@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>GeoLocation</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  This is latitude at {{latitude}} <br>
+  This is longitude at {{longitude}}<br>
+  <ion-button (click)="getLocation()">Test location</ion-button>  
+  <div ID='mapElement' class="map"></div>
+</ion-content>
