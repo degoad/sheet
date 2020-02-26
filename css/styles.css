@@ -1,0 +1,80 @@
+.sheet{
+  border-radius: 25px;
+  background: red;
+  padding: 20px;
+  width: 500px;
+  height: 250px;
+  border-style: solid;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+#photo{
+  border-radius: 10px
+  text-align: right;
+}
+#user{
+  text-align: center;
+  border-style: inset;
+  border-radius: 9px;
+  background: white;
+  width: 20%;
+  text-align: left;
+  background: white;
+  float: left;
+
+}
+#heal{
+  text-align: center;
+  border-style: inset;
+  border-radius: 9px;
+  background: white;
+  width: 20%;
+  text-align: left;
+  background: white;
+  float: right;
+}
+#protect{
+  text-align: center;
+  border-style: inset;
+  border-radius: 9px;
+  width: 20%;
+  text-align: left;
+  background: white;
+  float: right
+}
+#power{
+  text-align: center;
+  border-style: inset;
+  border-radius: 9px;
+  width: 20%;
+  text-align: left;
+  background: white;
+  float: right
+}
+#insight{
+  text-align: center;
+  border-style: inset;
+  border-radius: 9px;
+  width: 20%;
+  text-align: left;
+  background: white;
+  float: right
+}
+#agility{
+  text-align: center;
+  border-style: inset;
+  border-radius: 9px;
+  width: 20%;
+  text-align: left;
+  background: white;
+  float: right;
+}
+#age{
+  text-align: center;
+  border-style: inset;
+  border-radius: 9px;
+  width: 20%;
+  text-align: left;
+  background: white;
+  float: right;
+}
